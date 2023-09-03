@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omilhano
 - 👀 I’m interested in computers.
-- 🌱 I’m currently learning HTML,CSS,JS and Python.
+- 🌱 I’m currently learning FrontEnd, Python, SQL and Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alexmvfrancisco@gmail.com
 
