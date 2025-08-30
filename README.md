@@ -18,6 +18,7 @@ I'm an full-stack developer and content creator building my version of the digit
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<br />
           
 ### 💼 Working Experiences
 
