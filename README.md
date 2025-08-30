@@ -19,3 +19,11 @@ I'm an full-stack developer and content creator building my version of the digit
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
           
+### 💼 Working Experiences
+
+**Data Analyst (Internship) | Jerónimo Martins**  
+*June 2024 – August 2024*  
+- Assisted in analyzing sales and inventory data to optimize operations.  
+- Developed PBI dashboards that showed off multiple KPI to help the business grow.  
+- Collaborated with the analytics team to identify trends and support business decisions.  
+- Gained hands-on experience with data cleaning, visualization.
